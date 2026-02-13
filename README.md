@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi 👋 I'm Aparanjani Shyamala
+ Aspiring Software Engineer  
+ Python Developer | Machine Learning |Tkinter and Django  
+ Hyderabad,Telangana,India
 
-<!--
-**Aparanjani1082/Aparanjani1082** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  About Me
+I am a passionate Python developer with hands-on experience in building desktop applications and machine learning projects.  
+I enjoy solving real-world problems using clean and structured code.
 
-Here are some ideas to get you started:
+##  Technical Skills
+ Python 
+ Tkinter  
+ Django  
+ SQLite  
+ Pandas  
+ NumPy  
+  
+##  Projects
+1. Student Performance System (Tkinter + SQLite)
+2. Heart Disease Prediction System (Machine Learning + Logistic Regression)
+   
+##  Connect With Me
+ GitHub: https://github.com/Aparanjani1082
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
